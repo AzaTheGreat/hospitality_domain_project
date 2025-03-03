@@ -26,4 +26,4 @@ It is the measure of the average paid for rooms sold in a given time period.
     - Table that displays key metrics about each property in differnt cities
 - **Filters:**
     - Data in this dashboard can be filtered by different cities, room types and by specific month or week
- ![image](https://github.com/user-attachments/assets/1589d223-e38f-45c3-963d-c16efab366ea)
+  ![image](https://github.com/user-attachments/assets/1589d223-e38f-45c3-963d-c16efab366ea)
